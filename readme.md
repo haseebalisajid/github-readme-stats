@@ -209,7 +209,7 @@ Copy-paste this code into your readme and change the links.
 Endpoint: `api/top-langs?username=anuraghazra`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haseebalisajid)](https://github.com/haseebalisajid/github-readme-stats)
 ```
 
 ### Hide individual languages
@@ -242,7 +242,7 @@ You can use the `&layout=compact` option to change the card design.
 
 - Default
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=haseebalisajid)
 
 - Hiding specific stats
 
