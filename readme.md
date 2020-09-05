@@ -190,11 +190,11 @@ Endpoint: `api/pin?username=anuraghazra&repo=github-readme-stats`
 
 ### Demo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=haseebalisajid&repo=github-readme-stats)](https://github.com/haseebalisajid/github-readme-stats)
 
 Use [show_owner](#customization) variable to include the repo's owner username
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=haseebalisajid&repo=github-readme-stats&show_owner=true)](https://github.com/haseebalisajid/github-readme-stats)
 
 # Top Languages Card
 
@@ -230,7 +230,7 @@ You can use the `&layout=compact` option to change the card design.
 
 ### Demo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haseebalisajid)](https://github.com/haseebalisajid/github-readme-stats)
 
 - Compact layout
 
